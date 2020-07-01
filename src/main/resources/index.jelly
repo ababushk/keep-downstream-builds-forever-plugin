@@ -1,0 +1,5 @@
+<?jelly escape-by-default='true'?>
+<div>
+    This plugin helps keep logs when you team uses complex pipelines consist of many downstream builds that don't connect
+    with file fingerprints
+</div>
