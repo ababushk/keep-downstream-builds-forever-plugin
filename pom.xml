@@ -54,7 +54,7 @@
         <dependency>
             <groupId>com.axis.system.jenkins.plugins.downstream</groupId>
             <artifactId>yet-another-build-visualizer</artifactId>
-            <version>1.11</version>
+            <version>1.12</version>
             <scope>test</scope>
         </dependency>
         <dependency>
